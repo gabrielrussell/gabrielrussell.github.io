@@ -1,5 +1,3 @@
-# Blog Rules
-
 ## Posts
 - Never write prose or descriptive content in blog posts. Gabriel writes all post content.
 - When reviewing a post, only flag objective errors: spelling, grammar, broken links, incorrect dates. Do not suggest changes for clarity, style, or tone.

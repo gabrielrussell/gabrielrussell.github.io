@@ -11,6 +11,9 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+sass:
+  quiet_deps: true
+
 exclude:
   - Gemfile
   - Gemfile.lock
